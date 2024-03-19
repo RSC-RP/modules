@@ -1,0 +1,6 @@
+amps:
+  - "modules/nf-core/amps/**"
+  - "modules/nf-core/unzip/**"
+  - "modules/nf-core/malt/build/**"
+  - "modules/nf-core/malt/run/**"
+  - "modules/nf-core/maltextract/**"

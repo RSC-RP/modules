@@ -10,9 +10,6 @@ agat/convertspgff2tsv:
 ampcombi:
   - modules/nf-core/ampcombi/**
   - tests/modules/nf-core/ampcombi/**
-amps:
-  - modules/nf-core/amps/**
-  - tests/modules/nf-core/amps/**
 angsd/contamination:
   - modules/nf-core/angsd/contamination/**
   - tests/modules/nf-core/angsd/contamination/**
